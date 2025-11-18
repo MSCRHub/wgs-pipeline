@@ -1,4 +1,4 @@
-# wgs-pipeline - Portofolio
+# wgs-pipeline - Portfolio
 Whole genome sequencing - Unix
 
 The goal of the project:
