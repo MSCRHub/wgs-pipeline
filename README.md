@@ -4,7 +4,10 @@ Whole genome sequencing - Unix
 The goal of the project:
 
 This repository presents a pipeline using the following tools:
+
 FASTQ → QC → Trim → Alignment → BAM → Variant Calling → VCF → Annotation
+
+
 
 The structure for this Pipeline:
 -------------------------------------------------------------------------
